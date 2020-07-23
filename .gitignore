@@ -127,8 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-<<<<<<< HEAD
-=======
-.ipynb_checkpoints
-
->>>>>>> d76af61bf8d21f78c0a89d5291e9b8f86ef1d164
